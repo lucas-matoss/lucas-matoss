@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Lucas Matos Azevedo Cruz, tenho 21 anos e sou natural de Vitória da Conquista, mas atualmente resido em Salvador/BA. Concluí o ensino médio no Colégio Oficina. Estou cursando Engenharia de Software na UCSal (3º semestre).
+Tenho 21 anos, sou curioso por natureza e apaixonado por tecnologia. Venho aprofundando meus estudos e construindo uma boa base em Desenvolvimento web utilizando Java (Spring boot) e integração com SQL. Estou sempre em busca de aprender algo novo e melhorar minhas habilidades, porque sei que no mundo da programação, quem para, fica pra trás.
 
 ### 🤖 Linguagens e Tecnologias
 
