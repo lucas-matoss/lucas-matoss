@@ -67,5 +67,21 @@ Me chamo Lucas Matos Azevedo Cruz, tenho 20 anos e sou natural de Vitória da Co
     alt="Spring"
     title="Spring Boot"
     width="30px" 
-    s
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
