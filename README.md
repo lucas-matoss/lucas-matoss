@@ -79,6 +79,8 @@ Me chamo Lucas Matos Azevedo Cruz, tenho 20 anos e sou natural de Vitória da Co
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -95,7 +97,7 @@ Me chamo Lucas Matos Azevedo Cruz, tenho 20 anos e sou natural de Vitória da Co
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-matoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+/>
 
 </p>
 
