@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Tenho 21 anos, sou curioso por natureza e apaixonado por tecnologia. Venho aprofundando meus estudos e construindo uma boa base em desenvolvimento web e criação de de APIs RESTful utilizando algumas tecnologias como Java (Spring boot) e integração com banco de dados (SQL). Estou sempre em busca de aprender algo novo e melhorar minhas habilidades, porque sei que no mundo da programação, quem para, fica pra trás.
+Tenho 21 anos, sou curioso por natureza e apaixonado por tecnologia. Venho aprofundando meus estudos e construindo uma boa base em desenvolvimento web. Estou sempre em busca de aprender algo novo e melhorar minhas habilidades, porque sei que no mundo da programação, quem para, fica pra trás.
 
 ### 🤖 Linguagens e Tecnologias
 
