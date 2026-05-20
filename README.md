@@ -1,10 +1,10 @@
 ## Dev em Formação - Engenharia de Software - UCSal - Salvador
 
-**`Desenvolvedor de Software`**
+## Sobre Mim
 
 Tenho 22 anos e estou em busca de oportunidade de estágio na área de desenvolvimento de software, com foco principal em Back-End utilizando Java e Spring Boot. Busco constantemente aplicar as melhores práticas de mercado, como arquitetura em camadas, Clean Code e padrões de projeto.
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
